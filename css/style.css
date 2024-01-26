@@ -1,0 +1,7 @@
+.grad{
+ background-image: linear-gradient(70deg,#FFBF00  , #4287f7, white
+    );
+ background-clip: text;
+ color: transparent;
+
+}
